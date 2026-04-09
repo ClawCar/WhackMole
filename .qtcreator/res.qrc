@@ -1,9 +1,7 @@
 <RCC>
     <qresource prefix="/">
-        <file>background.png</file>
-        <file>mole_hit.png</file>
-        <file>hammer.png</file>
-        <file>mole.png</file>
-        <file>un_mole.png</file>
+        <file>mole_1.png</file>
+        <file>mole_hit_1.png</file>
+        <file>mole_hole_1.png</file>
     </qresource>
 </RCC>

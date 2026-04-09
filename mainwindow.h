@@ -10,7 +10,7 @@
 #include <QRandomGenerator>
 #include <QMessageBox>
 //#include <QSoundEffect>
-
+#include "common.h"
 QT_BEGIN_NAMESPACE
 namespace Ui {
 class MainWindow;
